@@ -59,7 +59,4 @@ Welcome to my GitHub! I am passionate about building scalable and impactful appl
 ## 📫 **Let's Connect:**
 - **Email:** [vspatil0404@gmail.com](mailto:vspatil0404@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vaishnavi-patil](https://linkedin.com/in/vaishnavi-patil)
-- **Portfolio:** [Your Portfolio Link](https://yourportfolio.com)
-
-Let's collaborate and build something amazing together! 😊
 
